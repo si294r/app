@@ -18,7 +18,7 @@ class StackExample extends StatelessWidget {
             height: 200.0,
           ),
           Container(
-            color: Colors.red[500],
+            color: Colors.red[200],
             width: 100.0,
             height: 100.0,
           )
